@@ -1,0 +1,2 @@
+# memoryku
+Sapalah
